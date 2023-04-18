@@ -15,5 +15,5 @@ Para instalar a biblioteca Pygame, você pode utilizar o seguinte comando no ter
 - Para reiniciar o jogo, pressione a tecla "R".
 - Para sair do jogo, pressione a tecla "ESC".
 
-![jogo_da_Velha]()
+![jogo_da_Velha](https://github.com/LucasArlen/TicTacToe/blob/main/img/TicTacToe.png)
 
