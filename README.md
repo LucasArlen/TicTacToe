@@ -1,4 +1,5 @@
 # Jogo da Velha
+
 ## Descrição
 Este é um simples jogo da velha implementado em Python utilizando a biblioteca Pygame.
 
@@ -14,6 +15,7 @@ Para instalar a biblioteca Pygame, você pode utilizar o seguinte comando no ter
 - Para selecionar uma célula, basta clicar com o mouse sobre ela.
 - Para reiniciar o jogo, pressione a tecla "R".
 - Para sair do jogo, pressione a tecla "ESC".
+
 
 ![jogo_da_Velha](https://github.com/LucasArlen/TicTacToe/blob/main/img/TicTacToe.png)
 
